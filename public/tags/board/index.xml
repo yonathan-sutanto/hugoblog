@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Board on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/board/</link>
+    <description>Recent content in Board on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2024 00:47:02 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/board/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 2</title>
+      <link>http://localhost:1313/posts/post-2/</link>
+      <pubDate>Fri, 01 Nov 2024 00:47:02 +0700</pubDate>
+      <guid>http://localhost:1313/posts/post-2/</guid>
+      <description>&lt;p&gt;The unconventional guide to hidden object games. Why do people think football games are a good idea? What everyone is saying about custom playing cards. The 20 worst songs about football games. 18 myths uncovered about virtual lives. Why do people think driving games are a good idea? Why the world would end without multiplayer games. Expose: you&amp;rsquo;re losing money by not using football games. How video game designers aren&amp;rsquo;t as bad as you think. 19 podcasts about game websites.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The 7 worst role play scenarios in history</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Thu, 31 Oct 2024 23:55:41 +0700</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;p&gt;The unconventional guide to hidden object games. Why do people think football games are a good idea? What everyone is saying about custom playing cards. The 20 worst songs about football games. 18 myths uncovered about virtual lives. Why do people think driving games are a good idea? Why the world would end without multiplayer games. Expose: you&amp;rsquo;re losing money by not using football games. How video game designers aren&amp;rsquo;t as bad as you think. 19 podcasts about game websites.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
