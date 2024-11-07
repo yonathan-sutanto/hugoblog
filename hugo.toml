@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://heroic-dusk-a9f581.netlify.app/'
 languageCode = 'en-us'
 title = 'My Hugo Site'
 pagination.pagerSize = 3
